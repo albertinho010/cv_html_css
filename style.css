@@ -1,0 +1,109 @@
+body{
+    font-family: 'Bebas Neue', cursive;
+    color: white;
+    margin-top: 0%;
+    
+}
+
+header{
+    display: flex;
+    background-color: #0c5058;
+    color: white;
+    margin: 10px;
+    
+}
+
+.image_profile{
+    vertical-align: middle;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    margin: 10px;
+    margin-left: 15px;
+    }
+
+.name{
+    display: flex;
+    width: 220px;
+    height: 220px;
+}
+
+.date{
+    
+    flex-direction: column;
+    
+    width: 390px;
+    text-align: left;
+    margin-left: 10px;
+    padding-left: 10px;
+    padding-top: 40px;
+}
+
+.social{
+   
+  
+    width: 550px;
+    margin-right: 10px;
+    text-align: right;
+}
+
+section{
+    display: flex;
+    justify-content: space-between;
+    background-color:  white
+}
+
+article{
+    width: 366px;
+}
+
+.others{
+    width: 344px;
+    background-color: rgb(141, 133, 125);
+    margin: 10px 0px;
+    padding: 10px;
+}
+
+aside{
+    width: 746px;
+}
+
+.info{
+    width: 723px;
+    background-color: #A7B8BF;
+    margin: 10px 0px;
+    padding: 10px;
+}
+
+
+.skills{
+    width: 692px;
+    text-align: justify;
+    background-color: #A7B8BF;
+
+}
+
+header, section{
+    width: 1152px;
+    margin: 0 auto;
+   
+   
+}
+
+ul{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+footer{
+    width: 1152px;
+    margin: 0 auto;
+    padding-top: 0px;
+    display: flex;
+    flex-direction: column;
+    background-color: #0c5058;
+    text-align: right;
+    color : white;
+}
+
+
+ 
