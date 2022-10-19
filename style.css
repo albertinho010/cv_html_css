@@ -2,6 +2,7 @@ body{
     font-family: 'Bebas Neue', cursive;
     color: white;
     margin-top: 0%;
+    background-color: aquamarine
     
 }
 
@@ -50,7 +51,7 @@ header{
 section{
     display: flex;
     justify-content: space-between;
-    background-color:  white
+    background-color: #0c5058
 }
 
 article{
